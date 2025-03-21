@@ -16,7 +16,7 @@ Pour commencer à jouer, il faut montrer sa main devant la caméra. Au sein du j
 
 ### Lien de test du jeu
 
-Pour tester le jeu  https://hosenmohsen.github.io/attrape-maillot/
+Pour tester le jeu  https://attrape-maillot.vercel.app/
 
 
 #### Clonage du projet
